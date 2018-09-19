@@ -1,0 +1,4 @@
+server:
+  port: 8989
+  servlet:
+    application-display-name: ajaxUpload
